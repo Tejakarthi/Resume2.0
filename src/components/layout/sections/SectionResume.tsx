@@ -7,7 +7,7 @@ const ResumeViewer: React.FC = () => {
             <SectionTitle title='Resume' />
             <div style={styles.container}>
                 <iframe
-                    src="https://msnlabs.com/img/resume-sample.pdf"  // Replace with the actual PDF path
+                    src="https://firebasestorage.googleapis.com/v0/b/resume2-cef4b.appspot.com/o/ArunKumarMResume%20(1)_240924_080631.PDF?alt=media&token=38066876-e4ca-4651-bcc9-ffabafd2c0df"  // Replace with the actual PDF path
                     title="Resume"
                     style={styles.iframe}
                 />

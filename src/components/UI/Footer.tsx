@@ -6,19 +6,19 @@ export default function Footer() {
             <div className='mx-auto flex flex-row flex-wrap items-center justify-center gap-2 text-center'>
                 <div className='shrink-0'>&copy; Crafted with love by</div>
                 <div className='shrink-0 break-keep font-bold tracking-wide'>
-                    Roberto Di Stefano
+                    Arun Kumar M
                 </div>
             </div>
             <div className='mx-auto flex flex-row flex-wrap items-center justify-center gap-4 text-center'>
                 <a
                     className='text-3xl transition duration-500 hover:scale-110'
-                    href='https://github.com/disteroby'
+                    href='https://github.com/Tejakarthi'
                     target='_blank'>
                     <IoLogoGithub />
                 </a>
                 <a
                     className='text-3xl transition duration-500 hover:scale-110'
-                    href='https://www.linkedin.com/in/disteroby1999'
+                    href='https://www.linkedin.com/in/ruthan-teja/'
                     target='_blank'>
                     <IoLogoLinkedin />
                 </a>
@@ -31,7 +31,7 @@ export default function Footer() {
                 </span>{" "}
                 <a
                     className='underline opacity-70 transition duration-200 hover:opacity-100'
-                    href='https://github.com/disteroby/disteroby-dev-portfolio'
+                    href='https://github.com/Tejakarthi/Resume2.0'
                     target='_blank'>
                     GitHub Repository
                 </a>
